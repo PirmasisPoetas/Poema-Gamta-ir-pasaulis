@@ -8,5 +8,8 @@ Pievos
 Miestas
 Gatvės
 Laukai
+Gyvūnai
+Vilkas
 Slėnis
 Miesto namai
+Šuo
