@@ -5,5 +5,7 @@ Upė
 Kalnai
 Dangus
 Pievos
+Miestas
+Gatvės
 Laukai
 Slėnis
